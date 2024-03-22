@@ -14,6 +14,10 @@ O projeto iniciou-se com alguns requisitos mínimos:
 - Especificações das tabelas dos projetos<br/><br/>
   - utilização da tag table pra criação das tabelas, utilizado tanto na secção "Projeto 1" quanto na "projeto 2" deste projeto ;
   - uso da tag caption para titúlo da tabela, utilizado nas tabelas dos dois projetos;
-  - Pelo menos cinco entradas na tabela, que tanto no projeto 1 quanto no projeto 2, se apresentaram da seguinte forma: Nome do Artigo, Autores,	Ano de publicação, Engenho de busca	e Acesso;
+  - Pelo menos cinco entradas na tabela, que tanto no projeto 1 quanto no projeto 2, se apresentaram da seguinte forma: Nome do Artigo, Autores,	Ano de publicação, Engenho de busca	e Acesso;<br/>
+
+- Formulário de Contato:<br/><br/>
+  - Implementar um formulário de contato com campos para nome, e-mail, mensagem e um botão de envio.<br/>
+  - Uso da tag <label> para associar rótulos aos campos do formulário.<br/>
 
 # Requisitos Adicionais
