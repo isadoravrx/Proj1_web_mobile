@@ -31,7 +31,7 @@ O projeto iniciou-se com alguns requisitos mínimos:
 - tag "title" dentro da tag "head" para inserção de nome na aba;<br/>
 - Adição de conceitos reais de imputação de dados ausentes, e séries temporais múltiplas, na secção "projeto 1";<br/>
 - Adição de conceitos reais das tipologias de Lavagem de dinheiro, na secção "projeto 2";<br/>
-- Citação de artigos reais, tanto no projeto 1 quanto no projeto 2, além de suas seguintes características :  Nome do Artigo, Autores, Ano de publicação,	Engenho de busca e link de Acesso.<br/>
+- Citação de artigos reais, tanto na secção "projeto 1" quanto em "projeto 2", além de suas seguintes características :  Nome do Artigo, Autores, Ano de publicação,	Engenho de busca e link de Acesso.<br/>
 - utilização do atributo "placeholder" nos campos no formulário, para orientar os usuários sobre o que colocar em cada um.<br/>
 - Atributo "target = _blank"para ao abrir links, o usuário ser redirecionado para outra janela, melhorando sua experiência no site, e evitando o grande aglomerado de informações em uma única janela.<br/>
 - Tag "mark" em todas as secções para destacar palavras, e provocar a atenção dos usuários para partes importantes do site.<br/>
