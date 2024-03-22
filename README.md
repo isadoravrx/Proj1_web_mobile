@@ -21,3 +21,7 @@ O projeto iniciou-se com alguns requisitos mínimos:
   - Uso da tag <label> para associar rótulos aos campos do formulário.<br/>
 
 # Requisitos Adicionais
+- Utilização da tag meta, com atributocharset="UTF-8" para utilização de caracteres da língua portuguesa sem problemas de formatação do site;<br/>
+- Tag br para, quando necessário, distanciar textos e deixar o site visualmente mais harmônico;
+- A utilização de tag de subtítulo como h1 e h3, que destacam subtítulos importantes do texto para o usuário;
+- A utilização da tag "<a>"
