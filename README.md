@@ -11,7 +11,7 @@ O projeto iniciou-se com alguns requisitos mínimos:
   -Inclusão de títulos, parágrafos, listas e links em cada seção;<br/>
   -Incorporação de pelo menos uma imagem representativa do portfólio, que nesse projeto foi uma imagem minha;<br/>
 
--Especificações das tabelas dos projetos
+- Especificações das tabelas dos projetos
   -utilização da tag table pra criação das tabelas, utilizado tanto na secção "Projeto 1" quanto na "projeto 2" deste projeto ;
   -uso da tag caption para titúlo da tabela, utilizado nas tabelas dos dois projetos;
   -Pelo menos cinco entradas na tabela, que tanto no projeto 1 quanto no projeto 2, se apresentaram da seguinte forma: Nome do Artigo, Autores,	Ano de publicação, Engenho de busca	e Acesso;
