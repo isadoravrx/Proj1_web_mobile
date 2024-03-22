@@ -5,7 +5,7 @@ Esse projeto consiste num portfólio com 4 secções, que possui como objetivo g
 # Requisitos Mínimos
 O projeto iniciou-se com alguns requisitos mínimos:
 
-- Estrutura de Porfólio
+- Estrutura de Porfólio<br/><br/>
   -Utilização intensiva de tags semânticas, como article, section, header e footer;<br/>
   -A divisão do Porfólio em pelo menos 4 secções, que no meu projeto foi adotado as secções : Sobre mim, falar sobre Projeto 1, falar sobre Projeto 2 e formulário de contato;<br/>
   -Inclusão de títulos, parágrafos, listas e links em cada seção;<br/>
