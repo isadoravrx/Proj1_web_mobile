@@ -38,3 +38,4 @@ O projeto iniciou-se com alguns requisitos mínimos:
 - Tag "audio" na secção "informações sobre mim", para adicionar umas das minhas músicas favorita a página, além de colocar os atributos "controls", "autoplay" e "loop", para melhorar a experiência do usuário.<br/>
 - Tag "video" na secção "Projeto 1", para apresentar um vídeo referente a maratona de programação e a linguagem que os competidores estão utilizando atualmente.<br/>
 - Tag "iframe" para criar barra de navegação. Apartir do momento que o usuário clicar para acessar secções como "Sobre mim" ou "Projeto 1", abrir no próprio iframe.
+- criação da secção "vivências universitárias", contando atividades realizadas por mim durantes os períodos que vivenciei até agora.
